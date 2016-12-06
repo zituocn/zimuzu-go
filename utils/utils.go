@@ -11,9 +11,9 @@ import (
 
 //api数据配置
 var (
-	cid       = "11"
-	accesskey = "f1a1a3a891ccdcfd08038c8678dcab53"
-	client    = "1"
+	cid       = "###"
+	accesskey = "###"
+	client    = "###"
 )
 
 //HttpGet方法
